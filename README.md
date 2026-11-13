@@ -17,8 +17,8 @@ Currently expanding my knowledge in backend development, LLMs, RAG systems, and 
 - [FastAPI E-commerce API]()
 
 ### 03. Machine Learning
-- [Car Price Prediction API](car-prediction)
-- [Heart Stroke Prediction Model](heart-stroke-prediction-model)
+- [Car Price Prediction API](https://github.com/devHuzaifa67/car-prediction)
+- [Heart Stroke Prediction Model](https://github.com/devHuzaifa67/heart-stroke-prediction-model)
 
 ### 04. Generative AI
 - [Multi-Agent AI Research System](https://github.com/devHuzaifa67/Multi-Agent-AI-Research-Report-System)
